@@ -29,11 +29,14 @@
 
 ![cmp](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/01-cmp.png?raw=true)
 
-> compare에서 비밀번호가 일치하는지 확인
+- compare에서 입력된 값과 0x149a가 일치하는지 확인
+- 16진수를 10진수로 바꾸면 5274
 
-![01-05](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/01-05.png?raw=true)
+![result](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/01-result.png?raw=true)
 
-![01-06](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/01-06.png?raw=true)
+- Password OK :) // 성공
+
+<br/>
 
 ### 2 - crackme0x02
 
