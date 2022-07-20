@@ -40,6 +40,16 @@
 
 ### 2 - crackme0x02
 
+![com](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/02-cmp.png?raw=true)
+
+- compare 값 확인해보고
+- 내가 입력한 값이 아닌 다른 값이 password
+- 주소 안에 있는 값을 확인
+
+![result](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/02-result.png?raw=true)
+
+- Password OK :) // 성공
+
 ### 3 - crackme0x03
 
 ![scan](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/03-scan.png?raw=true)
