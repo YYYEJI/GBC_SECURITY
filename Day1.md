@@ -29,6 +29,8 @@
 
 ![cmp](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/01-cmp.png?raw=true)
 
+> compare에서 비밀번호가 일치하는지 확인
+
 ![01-05](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/01-05.png?raw=true)
 
 ![01-06](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/01-06.png?raw=true)
