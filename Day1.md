@@ -17,15 +17,15 @@
 
 ![01-01](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/01-01.png?raw=true)
 
+- break point 걸어주고 run 시킨 화면
+
 ```shell
  $ ni
 ```
 
-![01-02](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/01-02.png?raw=true)
-
-![01-03](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/01-03.png?raw=true)
-
 ![01-04](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/01-04.png?raw=true)
+
+- 비밀번호를 입력받는 scanf 함수가 나옴
 
 ![cmp](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/01-cmp.png?raw=true)
 
