@@ -41,3 +41,17 @@
 ### 2 - crackme0x02
 
 ### 3 - crackme0x03
+
+![scan](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/03-scan.png?raw=true)
+
+- 사용자에게 값을 입력받고
+
+![test](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/03-test.png?raw=true)
+
+- test 함수에는 argument 4개 존재
+- 첫 번째 인자는 입력받은 값
+- 두 번째 인자는 비교하는 값 (52b24 -> 10진수로 변환해서 password 입력)
+
+![result](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/03-result.png?raw=true)
+
+- Password OK :) // 성공
