@@ -5,7 +5,7 @@
  $ cd crackme
 ```
 
-> ID, Password는 °ࡇ° ? ? ?
+> ID는 bof1, Password는 °ࡇ° ? ? ?
 
 <br/>
 
