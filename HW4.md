@@ -63,9 +63,7 @@
 - 해당 기법은 RET 영역에 system(), execv() 함수의 주소를 악의적으로 저장하게 되며, RET영역을 넘어선 영역까지 덮을 수 있어야 한다.
 - 일반적인 payload는 | buf[64] | sfp[4] | ret[4] | argv[0] | . . . 이러한 형식의 스택 구조를 가지고 있다.
 
-<img src="https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/RTL.png?raw=true width="200" height="400"/>
-
-<!-- ![RTL](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/RTL.png?raw=true){: width="100" height="100"} -->
+<p align="center"><img src = "https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/RTL.png?raw=true" width="50%" height="50%"></p>
 
 - 여기서 "/bin/sh"은 해당 system() 함수의 인자값(파라미터)으åå로 받아오는 값이다.
 
