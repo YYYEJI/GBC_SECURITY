@@ -65,7 +65,7 @@
 
 <p align="center"><img src = "https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/RTL.png?raw=true" width="30%" height="20%"></p>
 
-- 여기서 "/bin/sh"은 해당 system() 함수의 인자값(파라미터)으åå로 받아오는 값이다.
+- 여기서 "/bin/sh"은 해당 system() 함수의 인자값(파라미터)으로 받아오는 값이다.
 
 <br/>
 
