@@ -6,4 +6,4 @@
 
 <br/>
 
-> 출처: DVWA 실습하기 | YYYEJI
+> 출처: 웹 모의해킹 실습 (SQL Injection, XSS) | YYYEJI
