@@ -118,7 +118,7 @@ innocent의 주소가 -4되어 있었기 때문에 구한 거리에서 -4를 해
 
 ![06-pw](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/06-pw.png?raw=true)
 
-쉘을 열어주고
+쉘을 열어주고,
 쉘 권한으로 bof4.pw를 읽어준다.
 
 > bof4의 비밀번호는 64869b0d 이다.
