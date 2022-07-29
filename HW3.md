@@ -4,7 +4,7 @@
  $ docker run -it --privileged ccss17/bof
 ```
 
-> ID는 bof5, Password는 bof4에서 밝혀냈음
+> ID는 bof5, Password는 bof4에서 밝혀냈음.
 
 <br/>
 
