@@ -96,10 +96,10 @@
 
 - 프로그램이 실행되면 실행에 필요한 정보들이 Memory 영역에 올라가게 되는데 Code영역, Data영역, Stack영역, Heap영역이 있다.
 
-  - Code영역 - 프로그램의 컴파일된 기계어 코드가 올라가는 곳
-  - Data영역 - Global variable과 Static variable이 할당되는 곳
-  - Stack영역 - Local variable과 Parameter가 저장되는 곳
-  - Heap영역 - 빈 공간으로 필요에 따라 동적으로 메모리를 할당/해제하는 곳
+  - Code영역 → 프로그램의 컴파일된 기계어 코드가 올라가는 곳
+  - Data영역 → Global variable과 Static variable이 할당되는 곳
+  - Stack영역 → Local variable과 Parameter가 저장되는 곳
+  - Heap영역 → 빈 공간으로 필요에 따라 동적으로 메모리를 할당/해제하는 곳
 
 - Use After Free (UAF)
   - 줄여서 UAF라 부른다.
