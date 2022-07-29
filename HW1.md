@@ -34,7 +34,7 @@
 
 ![result](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/01-result.png?raw=true)
 
-- Password OK :) // 성공
+- Password OK :) // 성공 ! ! !
 
 <br/>
 
@@ -48,7 +48,7 @@
 
 ![result](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/02-result.png?raw=true)
 
-- Password OK :) // 성공
+- Password OK :) // 성공 ! ! !
 
 ### 3 - crackme0x03
 
@@ -64,4 +64,4 @@
 
 ![result](https://github.com/YYYEJI/GBC_SECURITY/blob/master/img/03-result.png?raw=true)
 
-- Password OK :) // 성공
+- Password OK :) // 성공 ! ! !
