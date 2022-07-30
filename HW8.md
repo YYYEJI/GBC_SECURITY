@@ -1,6 +1,6 @@
 # Assignment 8
 
-↓↓↓ Click 해주세요 ↓↓↓
+↓↓↓ Click 해주세요 ↓ ↓↓
 
 [CSRF Write up](https://yyyeji.tistory.com/30)
 
